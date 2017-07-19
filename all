@@ -1,0 +1,10 @@
+#!/bin/bash
+#Lab_Activity
+echo “Name : $0. Number of Parameters = $#”
+
+numargs=$#
+for ((i=1 ; i <= numargs ; i++))
+do
+    echo "$1"
+    shift
+done

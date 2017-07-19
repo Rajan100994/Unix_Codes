@@ -1,0 +1,6 @@
+#!/bin/bash
+#Lab_Activity
+for var in "$@"
+do
+    echo "$var"
+done
