@@ -1,3 +1,0 @@
-date
-echo $USER
-echo $PATH
