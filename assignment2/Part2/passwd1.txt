@@ -1,0 +1,9 @@
+SYSTEM:*:18:544:,S-1-5-18::
+LocalService:*:19:544:U-NT AUTHORITY\LocalService,S-1-5-19::
+NetworkService:*:20:544:U-NT AUTHORITY\NetworkService,S-1-5-20::
+Administrators:*:544:544:S-1-5-32-544::
+Administrator:*:500:513:U-richard-PC\Admin:/home/Administrator:/bin/bash
+Guest:*:501:513:U-richard-PC\Guest:/home/Guest:/bin/bash
+rkm010300:*:1000:513:Richard Min – email - rkm010300:/home/rkm010300:/bin/bash
+rjj160330:*:2000:514:Rajan Jhaveri – email - rjj160330:/Users/rajan:/bin/bash
+john:*:1010:600:John-Staff:/home/john:/bin/sh

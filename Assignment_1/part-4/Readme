@@ -1,0 +1,2 @@
+To compile and generate an object file type :	g++ myshell5.cpp -o myshell5To Run the file type : 	./myshell5		
+ls –la  ./cs5375Command:lsCommand:lsoptions:-aArgument:rajanls < junk.txt > output.txtCommand:lsFile redirection:<File:junk.txtFile redirection:>File:output.txtls | wcCommand:lspipeCommand:wcls | sort | wc Command:lspipeCommand:sortpipeCommand:wcexitRajans-MacBook-Air:part-4 rajan$

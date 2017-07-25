@@ -1,0 +1,6 @@
+Please run the files in the following order and as follows in the terminal:
+1) ./script1.sh
+2) ./script2.sh
+3) ./script3.sh
+
+NOTE : rec_s_2.sh is an attempt to have the desired outputs using recursion by a find command. 
